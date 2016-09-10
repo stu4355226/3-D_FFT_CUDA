@@ -14,7 +14,7 @@ Language: C, CUDA.
 Program Flow   
 -------------
    
-![program_flow](/images/gram_flow.jpg)   
+![program_flow](/images/program_flow.jpg)   
    
 This project is using CUDA and C languages to implement 3D Fast Fourier Transform and 3D inverse Fast Fourier Transform.     
 The goal is compare the executuon speed and anylysis the advantages and disadvantages on using CUDA for multthreading.    
