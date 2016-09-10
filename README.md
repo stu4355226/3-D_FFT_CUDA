@@ -37,10 +37,10 @@ if the incerse data is the same as the original data, we can say the program is 
 to check the data for CUDA 3D-FFT.   
 you need to open file"fft3_cuda.d", the file is made in the same way of C 3D-FFT does.   
 
-Excution 
+Execution 
 -------------
    
-![Excution](/images/excution.jpg)   
+![execution](/images/execution.jpg)   
    
 Result   
 -------------
